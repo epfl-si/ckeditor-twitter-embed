@@ -1,0 +1,17 @@
+{
+  "extends": "standard",
+  "env": {
+    "browser": true
+  },
+  "globals": {
+    "CKEDITOR": true
+  },
+  "rules": {
+    "max-len": [2, {
+      "code": 80,
+      "comments": 100
+    }],
+    "new-cap": 0,
+    "semi": [2, "always"]
+  }
+}
