@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>CKEditor Twitter Embed Demo</title>
+    <meta charset="utf-8" />
+    <style>
+      .container {
+        margin: 0 auto;
+        max-width: 800px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <h1>CKEditor Twitter Embed Demo</h1>
+      <textarea name="editor1"></textarea>
+    </div>
+
+    <script src="https://cdn.ckeditor.com/4.14.1/standard-all/ckeditor.js"></script>
+    <script>
+      CKEDITOR.plugins.addExternal( 'twitterembed', '/src/', 'plugin.js' );
+      // extraPlugins needs to be set too.
+      CKEDITOR.replace( 'editor1', {
+        extraPlugins: 'twitterembed',
+        removeButtons: 'Embed'
+      });
+    </script>
+  </body>
+</html>
