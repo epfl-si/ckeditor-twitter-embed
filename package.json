@@ -7,7 +7,7 @@
     "twitter",
     "embed"
   ],
-  "license": "MIT",
+  "license": "GPLv2",
   "repository": "epfl-si/ckeditor-twitter-embed",
   "engines": {
     "node": ">=10"
