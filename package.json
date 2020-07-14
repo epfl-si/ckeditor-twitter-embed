@@ -2,6 +2,11 @@
   "name": "ckeditor-twitter-embed",
   "version": "0.0.1",
   "description": "CKEditor Twitter plugin based on Media Embed",
+  "keywords": [
+    "CKEditor",
+    "twitter",
+    "embed"
+  ],
   "license": "MIT",
   "repository": "epfl-si/ckeditor-twitter-embed",
   "engines": {
