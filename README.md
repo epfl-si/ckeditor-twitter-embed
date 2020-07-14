@@ -3,7 +3,7 @@ ckeditor-twitter-embed
 
 [![Build Status][travis-image]][travis-url]
 [![Dependencies Status][daviddm-image]][daviddm-url]
-[![GitHub Tag][tag-image]][tag-url]
+[![npm version][npm-image]][npm-url]
 
 CKEditor Twitter plugin based on Media Embed.
 
@@ -60,5 +60,5 @@ Copyright (c) 2020 ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE, Switzerland, VPSI.
 [travis-url]: https://travis-ci.org/epfl-si/ckeditor-twitter-embed
 [daviddm-image]: https://david-dm.org/epfl-si/ckeditor-twitter-embed/status.svg
 [daviddm-url]: https://david-dm.org/epfl-si/ckeditor-twitter-embed
-[tag-image]: https://img.shields.io/github/tag/epfl-si/ckeditor-twitter-embed.svg
-[tag-url]: https://github.com/epfl-si/ckeditor-twitter-embed/tags
+[npm-image]: https://img.shields.io/npm/v/ckeditor-twitter-embed.svg
+[npm-url]: https://www.npmjs.com/package/ckeditor-twitter-embed
