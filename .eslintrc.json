@@ -12,6 +12,7 @@
       "comments": 100
     }],
     "new-cap": 0,
+    "no-var": 0,
     "semi": [2, "always"]
   }
 }
