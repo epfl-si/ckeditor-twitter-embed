@@ -14,7 +14,7 @@
   CKEDITOR.plugins.add('twitterembed', {
     icons: 'twitterembed', // %REMOVE_LINE_CORE%
     hidpi: true, // %REMOVE_LINE_CORE%
-    lang: 'en,fr',
+    lang: 'de,en,fr',
     requires: 'embedbase',
 
     init: function (editor) {
