@@ -47,6 +47,7 @@ Contributors
 ------------
 
 * [Gil Brechbühler](https://github.com/gilbrechbuhler)
+* [Lindo Duratti](https://github.com/dragonleman)
 * [William Belle](https://github.com/williambelle)
 
 License
