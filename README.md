@@ -1,7 +1,7 @@
 ckeditor-twitter-embed
 ======================
 
-[![Build Status][travis-image]][travis-url]
+[![Build Status][github-actions-image]][github-actions-url]
 [![Dependencies Status][daviddm-image]][daviddm-url]
 [![npm version][npm-image]][npm-url]
 
@@ -56,8 +56,8 @@ GNU General Public License Version 2
 
 Copyright (c) 2020 ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE, Switzerland, VPSI.
 
-[travis-image]: https://travis-ci.org/epfl-si/ckeditor-twitter-embed.svg?branch=master
-[travis-url]: https://travis-ci.org/epfl-si/ckeditor-twitter-embed
+[github-actions-image]: https://github.com/epfl-si/ckeditor-twitter-embed/workflows/Build/badge.svg
+[github-actions-url]: https://github.com/epfl-si/ckeditor-twitter-embed/actions
 [daviddm-image]: https://david-dm.org/epfl-si/ckeditor-twitter-embed/status.svg
 [daviddm-url]: https://david-dm.org/epfl-si/ckeditor-twitter-embed
 [npm-image]: https://img.shields.io/npm/v/ckeditor-twitter-embed.svg
